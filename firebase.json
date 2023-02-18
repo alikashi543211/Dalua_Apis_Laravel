@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "dalua-illumagic",
+    "private_key_id": "a443aefeb49ff9bfbe2ffbeec7bc95b776b7a4e6",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrviksxJU4Ibiz\nf0Grc8hXz1SeEsjkfi/5VbCDxsV8OQ62nBsHdyWjZA8CkoPKWTXLpHMjk3h3rET3\ni5tmg+QIdr7/wsIb3Qe1WwnrKrruvKbbkwvkMnHeNjI6VCvnzi/CQc2ZQj/Lr7vZ\nRBVnSDKTA63detV6Q1y1QtIZex5Y/O5LjxueIdj/vNT+YfnJuVDcA8pUgOs0INE4\no3vp7dFLmoCW/fe115vv0yAk/OLX1WUcEJhLirLoqsiG+0zH0JGfB7HjSYloEmQd\n0JoUuUFHzLTmZIXIQj2KX0nXA8wM9w5nQbgW9VbxRVWJilj+bJDqsZdxbCiGwoKN\nLZoK8MPvAgMBAAECggEARwep/eL8GDASNOK/5UpIpNCSHaKFRcNO0h93lrjB+sOa\nazobD7ZecbozXwv7x9enoSbNm/wlCdHM4Fj0F60axcle62bAY0fCJWaWrpWIpK6P\nkCa791BJue7OTUN8uS2UoRIYF3fH7NUsqwo2k/XPPPB7mytvWVa85BbT0EgUYBbl\nEzh84AD9kkMAxGC5zhNa488LafgIOhPdUY19MC+RNudbIBTOSyaa50C6xrp18/So\nOzuo+jVlYY+3eHsp6KOfb4RSJNMZF1kRljDrKrNkA0UTolKlH2IZwpLizWXYeP9f\nrZJsmuDKE+QPy/5N7LUHv4v3nzInpcoUFac49CTbQQKBgQDuarSCTm4S670E2wlH\n/NFoxkQk21s4PYj/tLHQe40vTEan/Pwsxqvr0aWco6EGfppqIcScWxFn69iuUem0\n+03u27+REcMOOQTLnEW1VPgpFolga7xwcE+Dpzk3n2Ox0zQwAZZTDDGMCqUVXbDm\ncIHtjiIaDOvD3JWJAP+ALnyFYQKBgQC4aKeYp65umTPfSxXXxStLkw2Bvl0XN9/S\nS54J8DxVNQP7Iw0Oh9/WLnufG6VkIb8EKLgC33+AguqXobl/gkKUreuGjlLY90ov\nNqZ83EDWZOCzCUUKn5zhpLGkZBqjzw5MLvbsNmVWBmzWHZsTOnaROOGEEYgQV7AU\nHkJYRy57TwKBgQDjeVmqriwlz1g0RswvLA+c+PZReB0rpsKMvpmdQhSt2QfdBeqQ\nyimEQS3TKufbK3Ym5vsQ926/CW5eu/bQ36k2yeGYBytk6ZAiuIJmBaEUitUd8w0C\n9pVXFnjoEiJrqwiy+QC1UgAADrP9k7vR0eyVfDQbSNK1uEPQSOx+H1xdYQKBgQCi\nywjBE65CRo7rXX6f55iL8/plgibt+05keIrAnUq1scKc7ll1bW+lxY0ubZp5Je1Z\n/5RKPQFy8p+kUonOTbD3Tf3w4C21CcF8opMhANNgMNfIVbOUaEl3TQvhYtm9qGkn\nygIDjxWwdqWX87TVqbPICd3T2CI0wyRW7kuFYPlgswKBgAxoqjHTsJgaEa5lRBvZ\n1TUDkhddGmZpHRXMN3k3+SkCrZc9ia9/8qZRZKtYLORhqphSSVMz35TNfxpM9o/b\nyglypcFQ+WhTlKItD/fX53C1BEX5bTEyKdOZ+6giPDczxVWZ+ahgUsOx82nSnoJg\nrr179uPQJeYusAdWHX5nhH4L\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-62s1q@dalua-illumagic.iam.gserviceaccount.com",
+    "client_id": "114131428876479293547",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-62s1q%40dalua-illumagic.iam.gserviceaccount.com"
+}

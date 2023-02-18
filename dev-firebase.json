@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "dalua-iot-22368",
+    "private_key_id": "f1b578b1b167f2dab6f295caf170562259172773",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCzdjG3jLzwRR6Q\nE8bp2YFZUClJUsTNBeEOm9wPgMK8AaL9Mlcp0FWRHdcd46j4/dAA2ky1MO2wPZRJ\nNfkAXiDKMRI2icpBe02s3yJk+vFSZisGtNV6w6NGKCPTzYJ+M+adxnZkwHPT9+Ak\ncTpD01ipjj3HgJNZhD8K6qIEAtC7cdA5exa3H40BKjKQK4A35Mgu0Plnj19BtXg7\nKlBXa8k72o4CCuZbtrx8lPVHUb9pTqi147zcbNkAKCg7EB30pyE3Wfr7r528gLmW\nFHJrRmGgN2U6AKCpOFO7+GHT4+US1Bh9z5Ykl5xYYp97jOxYk4grQJTSMI9avtwA\npAOKpRvVAgMBAAECggEAAQ221YHHQy7YstZW4t0SyBQzJdnNS3nXHCeYl2O1YPau\nfweKYPW25uLytht1zL5qt/KQJDktEA2QfwyI0XJ8BUvb9EODUzaW2ma19DtP6uCs\nLH4nybB31yvZp/7rHvQNjMwTOlyx4WLxZy1d/vNw8A/kd3UfCFXBK/58JINit9L8\n9PImtBHrSPpTn3Yfo25IZIEFeiwCLIx9CNPDwQwCeZqwHEEr6J4ciTur+Gh+o5gy\nVLtUslCnBi/WUVndSXFDlQbDRlxRdlGAE8Xq80dfmDRSR1SNglnFJ2bqhv2H5gXb\n/l3fn85jqtjswkbrsily8xL4rK9mfLVg9BIDBXS4MQKBgQDlYtULxWNXi77/KiTV\nSoeooTOa4HSBJlUfEGrujFyhwvDNZe6aN2JmSyGJQtD4rwcAnBa0KWKxGydUCMog\nTOvIbPGvnUtLvBrHBLKdvic3zHnbjuP3yzhYwA9QAD+yGpWv8DpM3Q3x+eyZerzQ\no5WBb49aYyojWYQ0r/OWmA5ZhQKBgQDISIVXJeKQWZC6HCwxy1DudTg+9eXoNza1\nHD4/JzQRRedyd6kUjsZYSu3hZtWUREleoBju/FSeGqhU/Gx9iMImh0758gqdGOAc\nowSH3KV8R+cib4Hm+heZD33+GCKxWovppnTbCqXLetgYKpyPbQlDbrqLVoXkMo43\nPBX/2U+iEQKBgBykLYPNvqy0t0F3CqhTKQMmNaJV+lYR6jj5vNBSWFKeW6DZ5GP/\nHFs3cFWKMTuL5yztUGxoanlAsbVtb4d+80XQTJEn67nmH9XPwVmu34i5EFIY0mAj\nUMLMIF1V2p4rcZtJPI5SX6ZiFWfIioDmnAlQW67miOFnEPnfKmQYUlpdAoGADdjN\ntze8UUSP9/4IpCytXL8n81pm2cYvdxgLyav5MpSFqulQ/EXeuq37glDsxUJvXCZv\nct5pL0EikDWffpJc8fL659bvGutkWzZ+ErKTkmMaPMw+y+xQg1mJ2W5rv51F/RJw\nE9DJo6bLl+giSNw9/raCGS4TNbK1GGaEEttAYTECgYAFR2OB/FU7Lkb3TC8C++VI\n/LZ7vFNLbsX21eEI7Be1AgWWZ5jszJr7ZYAQldM2yXeOupmyOuhIB91MToJjo3Lu\norMoUIDwBhNpheGYWiPhGuhoyHpiaB+PxS0BOaVDEmTH5OR6vU7004ULb6yo6qeQ\nZLSXK1zTV7IcECiuC0Vklw==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-xapbz@dalua-iot-22368.iam.gserviceaccount.com",
+    "client_id": "107649197810721601309",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xapbz%40dalua-iot-22368.iam.gserviceaccount.com"
+  }

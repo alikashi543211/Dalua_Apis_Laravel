@@ -1,0 +1,35 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class AddWifiSsidColumnToDevicesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        if (!Schema::hasColumn('devices', 'wifi_ssid')) {
+            Schema::table('devices', function (Blueprint $table) {
+                $table->string('wifi_ssid')->nullable();
+                $table->string('timezone')->default('Asia/Karachi');
+            });
+        }
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::table('devices', function (Blueprint $table) {
+            //
+        });
+    }
+}

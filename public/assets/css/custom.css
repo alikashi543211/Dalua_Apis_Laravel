@@ -1,0 +1,49 @@
+.table-row{
+    cursor: pointer;
+}
+.pagination{
+    padding: 0px 1.5rem 0.5rem 0px !important;
+}
+.page-item.previous,
+.page-item.next{
+    width: auto;
+}
+.page-item.previous .page-link,
+.page-item.next .page-link{
+    background-color: transparent;
+    border: none;
+    width: auto;
+}
+
+.card_detail
+{
+    min-height: 723.67px;
+}
+
+.dashboard_card_detail
+{
+    min-height: 390.11px;
+}
+
+.card .table td, .card .table th {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+}
+.card .table td:first-child, .card .table th:first-child {
+    padding-left: 1.5rem;
+}
+.profile_card_detail{
+    min-height: 1026.5px;
+}
+
+.graph-times{
+    position: absolute;
+}
+
+.graph-moon{
+    position: absolute;
+    height: 365px;
+    top: 55px;
+    right: 24px;
+    width: 88px;
+}
